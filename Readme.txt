@@ -4,7 +4,7 @@
  Copyright 2003 TotalIndex v2.0, All rights reserved.
 -----------------------------------------------------------------
  This script is free of charge.  If you like what you see, 
- please visit http://www.sweetphp.com for more available scripts.
+ please visit http://www.totaldev.com for more available scripts.
  Allow, please feel free to link to my site, and I will link 
  back to yours.
 -----------------------------------------------------------------
@@ -89,13 +89,6 @@ into the indexing system.
 - Support for many file type extensions and the ability to add your own
   custom extensions with icons that are not included.
 
-
---- Bugs/Feature Requests ---
-If you find any bugs in the program, or if you would like some features 
-added in for the next release, please visit http://www.sweetphp.com
-and post a request on the message board, or email Matt Palermo:  
-
-webmaster@sweetphp.com
 
 
 
