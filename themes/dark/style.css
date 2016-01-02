@@ -1,0 +1,154 @@
+body {
+	margin: 0 0 0 0;
+        scrollbar-face-color:#333333;
+        scrollbar-arrow-color:#FFFFFF;
+        scrollbar-track-color:#CCCCCC;
+        scrollbar-shadow-color:'';
+        scrollbar-highlight-color:'';
+        scrollbar-3dlight-color:'CCCCCC';
+        scrollbar-darkshadow-Color:'';
+	}
+
+/* Body for forms pages */
+.body01 {
+	background-color: #efefef;
+	margin: 0 0 0 0;
+	}
+
+/* General table element defaults */
+table, tr, th, td {
+	border-collapse: collapse;
+	margin: 0em;
+	padding: 0em;
+	}
+
+/* table for the whole page */
+.tbl01 {
+	width: 100%;
+	height: 100%;
+	border-width: 0;
+	}
+
+/* table for the small forms */
+.tbl02 {
+	width: 60%;
+	border-width: 1;
+	border-color: #333333;
+	border-style: solid;
+	}
+
+/* cell containing attribute columns */
+.td01 {
+	width: 100%;
+	height: 21;
+	border-width: 0;
+	border-style: none;
+	background: url("top_bar.gif") repeat-x scroll top left;
+	}
+
+/* left-side of the column */
+.td02 {
+	width: 1%;
+	height: 21;
+	border-width: 0;
+	border-style: none;
+	background: url("left_side.gif") no-repeat scroll bottom left;
+	}
+
+/* middle of the column */
+.td03 {
+	height: 21;
+	border-width: 0;
+	border-style: none;
+	background: url("middle.gif") repeat-x scroll bottom left;
+	color: #000000;
+	font: bold x-small Verdana, Arial, Helvetica, sans-serif;
+	}
+
+/* right-side of the column */
+.td04 {
+	width: 1%;
+	height: 21;
+	border-width: 0;
+	border-style: none;
+	background: url("right_side.gif") no-repeat scroll bottom left;
+	}
+
+/* left-side of the column (no background) */
+.td05 {
+	width: 1%;
+	height: 21;
+	border-width: 0;
+	border-style: none;
+	}
+
+/* middle of the column (no background) */
+.td06 {
+	height: 21;
+	border-width: 0;
+	border-style: none;
+	color: #000000;
+	font: bold xx-small Verdana, Arial, Helvetica, sans-serif;
+	}
+
+/* right-side of the column (no background) */
+.td07 {
+	width: 1%;
+	height: 21;
+	border-width: 0;
+	border-style: none;
+	}
+
+/* cell containing attribute columns */
+.td08 {
+	width: 100%;
+	height: 21;
+	border-width: 0;
+	border-style: none;
+	background: url("top_bar.gif") repeat-x scroll bottom left;
+	}
+
+/* Colored background cells in forms */
+.td09 {
+	width: 50%;
+	background-color: #cccccc;
+	}
+
+/* Larger text*/
+.txt01 {
+	color: #000000;
+	font: bold small Verdana, Arial, Helvetica, sans-serif;
+	}
+
+/* Smaller text */
+.txt02 {
+	color: #000000;
+	font: normal x-small Verdana, Arial, Helvetica, sans-serif;
+	}
+
+/* Used in column tops*/
+.link01:link {
+	color: #000000;
+	text-decoration: none;
+	}
+.link01:visited {
+	color: #000000;
+	text-decoration: none ;
+	}
+.link01:hover {
+	color: #000000;
+	text-decoration: underline ;
+	font: bold;
+	}
+.link01:focus {
+	color: #000000;
+	text-decoration: underline ;
+	}
+.link01:focus:hover {
+	color: #000000;
+	text-decoration: underline ;
+	}
+.link01:active {
+	color: #000000;
+	text-decoration: underline ;
+	}
